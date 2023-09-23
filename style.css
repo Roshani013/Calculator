@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: rgb(153, 174, 173);
+
+}
+.container {
+    width: 450px;
+    height: 500px;
+    padding: 8px;
+    margin: auto;
+    background-color: black;
+    margin-top: 20px;
+    border-radius: 10px;
+
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 15px;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 22px;
+    border: none;
+    border-radius: 12px;
+
+}
+
+input[type=button]{
+    width: 100px;
+    padding: 15px;
+    font-size: 22px;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+}
+
+#{
+    width: 100;
+    color: red;
+}
